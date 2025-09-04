@@ -11,7 +11,7 @@ Equip the Head of Sales with team-wise performance metrics and top contributor b
 ⚙️ Tools & Techniques
 Power BI Desktop & Service for interactive dashboards
 
-Power Query Editor for data cleaning and transformation
+Power Query Editor for data cleaning and transformation,
 
 Star Schema Modeling to optimize performance and scalability
 
